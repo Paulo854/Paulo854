@@ -18,7 +18,7 @@ Estudante de programação em geral, buscando sempre aprimorar os meus conhecime
 
 ## Ultimo projeto 
 
-- [Projeto relacionado a saúde mental - com sistema de cadastro de user](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://vivamenteofi.rf.gd)
+- [Projeto relacionado a saúde mental - com sistema de cadastro de user](https://vivamenteofi.rf.gd)
 
 ## Linguagens mais utilizadas
 
