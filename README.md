@@ -23,3 +23,6 @@ Estudante de programação em geral, buscando sempre aprimorar os meus conhecime
 ## Linguagens mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo854&layout=compact)
+
+
+![Snake animation](https://github.com/Paulo854/animation-repositorie/blob/main/github-contribution-grid-snake.svg)
