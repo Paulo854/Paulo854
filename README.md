@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Paulo Victor👋
+## Hello!  I'm Paulo Victor 👋
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://vivamenteofi.rf.gd)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gamejp202/)
@@ -6,6 +7,7 @@
 ![Paulo Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo854&show_icons=true&theme=onedark)
 
 ## Tecnologias que uso no meu dia
+# Technologies I use in my day
 
 <div style="display: inline_block">
     <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,11 +19,15 @@
 
 Estudante de programação em geral, buscando sempre aprimorar os meus conhecimentos.
 
-## Ultimo projeto 
+Programming student in general, always looking to improve my knowledge.
+
+## Ultimo projeto
+# Latest project 
 
 - [Projeto relacionado a saúde mental - com sistema de cadastro de user](https://vivamenteofi.rf.gd)
 
 ## Linguagens mais utilizadas
+# Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo854&layout=compact)
 
