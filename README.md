@@ -1,43 +1,63 @@
-## Olá! Eu sou o Paulo Victor👋
-### Hello!  I'm Paulo Victor 👋
+<h1 align="center">Olá, eu sou o Paulo Victor 👋</h1>
+<p align="center">Hello! I'm Paulo Victor 👋</p>
 
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://vivamenteofi.rf.gd)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gamejp202/)
+<p align="center">
+  <a href="https://vivamenteofi.rf.gd">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/gamejp202/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-![Paulo Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulo854&show_icons=true&theme=onedark)
+---
 
-## Tecnologias que uso no meu dia
-### Technologies I use in my day
+### 🚀 Sobre mim / About me
+- 💻 Estudante de Ciência da Computação – 3º semestre  
+- 🎯 Foco no desenvolvimento **Back-End**  
+- 🌱 Aprendendo e evoluindo todos os dias  
+- 🧠 Projetos voltados para tecnologia + saúde mental
 
-<div style="display: inline_block">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div><br>
+---
 
-Estudante de programação em geral, buscando sempre aprimorar os meus conhecimentos.
+### 🛠️ Tecnologias que uso no dia a dia
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
-Programming student in general, always looking to improve my knowledge.
+---
 
-## Ultimo projeto
-### Latest project 
+### 📌 Estudando atualmente
+<div style="display: inline_block"><br>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img align="center" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" />
+</div>
 
-- [Projeto relacionado a saúde mental - com sistema de cadastro de user](https://vivamenteofi.rf.gd)
+---
 
-## Linguagens mais utilizadas
-### Most used languages
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo854&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo854&layout=compact&theme=radical" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo854&layout=compact)
+---
 
+### 🧠 Último projeto
+- [Vivamente — sistema para apoio à saúde mental 💜](https://vivamenteofi.rf.gd)
 
+---
+
+### 🐍 Contribuições
 ![Snake animation](https://github.com/Paulo854/animation-repositorie/blob/main/github-contribution-grid-snake.svg)
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+---
+
+<div align="center">
+  <h3><b>👁️ Profile Visitor Count</b></h3>
+  <img src="https://profile-counter.glitch.me/Paulo854/count.svg" />
 </div>
-    
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Paulo854/count.svg" />  
-</p>
