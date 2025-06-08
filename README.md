@@ -33,3 +33,11 @@ Programming student in general, always looking to improve my knowledge.
 
 
 ![Snake animation](https://github.com/Paulo854/animation-repositorie/blob/main/github-contribution-grid-snake.svg)
+
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Paulo854/count.svg" />  
+</p>
