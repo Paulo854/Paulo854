@@ -1,7 +1,8 @@
-<div align="center" style="text-align: center;">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Olá,+eu+sou+o+Paulo+Vicotr;Back+end - developer;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
+    <img height="90" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Paulo+Victor;Back-end+Developer;Seja+bem-vindo+ao+meu+GitHub+%3A)" alt="Typing SVG" />
   </a>
+</div>
 
 <p align="center">
   <a href="https://vivamenteofi.rf.gd">
