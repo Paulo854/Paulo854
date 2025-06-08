@@ -1,5 +1,7 @@
-<h1 align="center">Olá, eu sou o Paulo Victor 👋</h1>
-<p align="center">Hello! I'm Paulo Victor 👋</p>
+<div align="center" style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img  height="90" src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=A020F0&lines=Olá,+eu+sou+o+Paulo+Vicotr;Back+end - developer;Seja+bem-vindo+ao+meu+Github+:)" alt="Typing SVG">
+  </a>
 
 <p align="center">
   <a href="https://vivamenteofi.rf.gd">
