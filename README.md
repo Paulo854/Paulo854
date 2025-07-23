@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Sobre mim / About me
-- 💻 Estudante de Ciência da Computação – 3º semestre  
+- 💻 Estudante de Ciência da Computação – 4º semestre  
 - 🎯 Foco no desenvolvimento **Back-End**  
 - 🌱 Aprendendo e evoluindo todos os dias  
 - 🧠 Projetos voltados para tecnologia + saúde mental
@@ -62,5 +62,5 @@
 
 <div align="center">
   <h3><b>👁️ Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/Paulo854/count.svg" />
+   ![](https://komarev.com/ghpvc/?username=Paulo854&abbreviated=true)
 </div>
