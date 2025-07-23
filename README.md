@@ -62,5 +62,6 @@
 
 <div align="center">
   <h3><b>👁️ Profile Visitor Count</b></h3>
-   ![](https://komarev.com/ghpvc/?username=Paulo854&abbreviated=true)
+  <img src="https://komarev.com/ghpvc/?username=Paulo854&abbreviated=true" alt="Profile views" />
 </div>
+
